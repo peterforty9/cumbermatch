@@ -1,5 +1,5 @@
 # default config
-baseURL = ""
+baseURL = "https://cumbermatch.netlify.com/"
 languageCode = "en-us"
 title = "Cumbermatch"
 theme = "parsa-hugo"
