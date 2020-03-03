@@ -5,6 +5,6 @@ description = "ggssdfsd"
 image = "/images/author.jpg"
 tags = []
 title = "Test"
-type = "post"
+type = "featured"
 
 +++
