@@ -1,7 +1,7 @@
 # default config
-baseURL = "https://examplesite.org"
+baseURL = "http://cumbermat.ch"
 languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
+title = "Cumbermatch"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -62,13 +62,9 @@ layout = "1"
 # Meta data
 description = "This is meta description"
 # about author
-author = "Themefisher"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
@@ -86,9 +82,9 @@ enable = true
 
 # Instagram feed
 [params.instafeed]
-enable = true
-user_id = "4044026246"
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+enable = false
+user_id = ""
+access_token = ""
 
 # social site
 [[params.social]]
