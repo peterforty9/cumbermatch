@@ -1,5 +1,5 @@
 # default config
-baseURL = "\examplesite"
+baseURL = ""
 languageCode = "en-us"
 title = "Cumbermatch"
 theme = "parsa-hugo"
